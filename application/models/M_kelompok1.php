@@ -43,5 +43,6 @@ class M_kelompok1 extends CI_Model
                 'mengerjakan' => "Ya"
             ]
         ];
+        return $data;
     }
 }

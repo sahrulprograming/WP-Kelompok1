@@ -5,7 +5,8 @@ class Matkul extends CI_Controller
 {
 	public function index()
 	{
-		$this->load->view('kelompok1');
+		$data['kelompok1'] = $this->M_kelompok1->anggota();
+		$this->load->view('kelompok1', $data);
 	}
 	public function form()
 	{
