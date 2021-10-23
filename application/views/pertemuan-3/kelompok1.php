@@ -13,7 +13,7 @@
 <body>
     <div class="container text-center mt-3">
         <div class="border bg-primary">
-            <h2>Kelompok 1 <br>Web Programing II</h2>
+            <h2>Kelompok 1 <br>Web Programing II <br> Kelas 19.3A</h2>
         </div>
         <table class="table mt-3">
             <thead class="text-center bg-secondary text-white">
